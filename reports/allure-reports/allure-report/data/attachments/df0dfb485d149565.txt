@@ -1,9 +1,0 @@
-Inside Login Definition
-Login Completed
-OrangeHRM
-Inside Try Block
-Inside Except Block
-Inside Screenshot Def
-14-10-2018_15-30-56
-screenshot_14-10-2018_15-30-56
-Done with screenshot

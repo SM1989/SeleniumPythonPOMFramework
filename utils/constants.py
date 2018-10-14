@@ -12,5 +12,10 @@ def screenshot(self):
     y = "screenshot_" + x
     print("Captured the Screenshot named::", y)
     self.driver.get_screenshot_as_file("C:/Users/saurmukh/PycharmProjects/AutomationFrameword/screenshots/" +y+ ".PNG")
-    allure.MASTER_HELPER.attach(name=y, contents=self.driver.get_screenshot_as_png(),
-                                type=allure.MASTER_HELPER.attach_type.PNG)
+
+    #Below line works fine with allure adopter
+    # allure.MASTER_HELPER.attach(name=y, contents=self.driver.get_screenshot_as_png(),
+    #                             type=allure.MASTER_HELPER.attach_type.PNG)
+
+    #Below line works fine with allure-pytest
+    allure.attach(self.driver.get_screenshot_as_png(),name=y,attachment_type=allure.attachment_type.PNG)

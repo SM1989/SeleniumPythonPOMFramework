@@ -1,4 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","login_test.TestLogin.test_logout","3318",""
-"passed","login_test.TestLogin.test_login","22395",""
-"passed","login_test.TestLogin.test_homepage_basic","20618",""

@@ -1,0 +1,56 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1539511236788" stop="1539511283201">
+  <name>login_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1539511236788" status="passed" stop="1539511259183">
+      <name>TestLogin.test_login</name>
+      <attachments>
+        <attachment source="0bd64ce4-d9ec-4e97-ba8b-65bbeb2ab75d-attachment.png" title="screenshot_14-10-2018_15-30-56" type="image/png"/>
+        <attachment source="f9f47906-148c-4460-8801-516f1353498e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5268-MainThread"/>
+        <label name="host" value="SAURMUKH-95DTA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539511259204" status="passed" stop="1539511279822">
+      <name>TestLogin.test_homepage_basic</name>
+      <attachments>
+        <attachment source="e14288a6-411c-4535-9603-2624a60a7081-attachment.png" title="screenshot_14-10-2018_15-31-02" type="image/png"/>
+        <attachment source="2635aec3-e800-406c-9d71-15f5306f3046-attachment.png" title="screenshot_14-10-2018_15-31-04" type="image/png"/>
+        <attachment source="989e4206-0b0d-4899-a5f3-6ad0003189c7-attachment.png" title="screenshot_14-10-2018_15-31-08" type="image/png"/>
+        <attachment source="1d6a1608-8be0-4a10-83f8-ec6533a5d9a3-attachment.png" title="screenshot_14-10-2018_15-31-10" type="image/png"/>
+        <attachment source="165a20fd-f253-449a-b067-6ebe03fa8e7a-attachment.png" title="screenshot_14-10-2018_15-31-11" type="image/png"/>
+        <attachment source="8b5797db-3ec9-4023-8f07-f90a6df4ba9e-attachment.png" title="screenshot_14-10-2018_15-31-13" type="image/png"/>
+        <attachment source="8aea4b45-a099-4f37-91e6-44791a6348f5-attachment.png" title="screenshot_14-10-2018_15-31-19" type="image/png"/>
+        <attachment source="dd49fb49-d965-4a7d-af1d-bd900b774a7e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5268-MainThread"/>
+        <label name="host" value="SAURMUKH-95DTA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539511279883" status="passed" stop="1539511283201">
+      <name>TestLogin.test_logout</name>
+      <attachments>
+        <attachment source="271257f3-3bdf-4b11-886c-c9809206a048-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5268-MainThread"/>
+        <label name="host" value="SAURMUKH-95DTA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

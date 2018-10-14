@@ -1,0 +1,76 @@
+{
+  "uid" : "7d0641b684a3c5ae",
+  "name" : "TestLogin.test_logout",
+  "fullName" : "login_test.TestLogin.test_logout",
+  "historyId" : "3aa569c3f4fc13be2520d3c98a8e45b8",
+  "time" : {
+    "start" : 1539511279883,
+    "stop" : 1539511283201,
+    "duration" : 3318
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f3f4f3a6336f50a0",
+      "name" : "Captured stdout call",
+      "source" : "f3f4f3a6336f50a0.txt",
+      "type" : "text/plain",
+      "size" : 35
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SAURMUKH-95DTA"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5268-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "login_test"
+  }, {
+    "name" : "testClass",
+    "value" : "login_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_logout"
+  }, {
+    "name" : "package",
+    "value" : "login_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d0641b684a3c5ae.json",
+  "parameterValues" : [ ]
+}

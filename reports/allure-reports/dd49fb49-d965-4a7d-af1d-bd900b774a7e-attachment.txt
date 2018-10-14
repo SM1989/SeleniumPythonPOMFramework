@@ -1,0 +1,35 @@
+Inside Navigation Def
+Clicked on:: Admin
+Inside Screenshot Def
+14-10-2018_15-31-02
+screenshot_14-10-2018_15-31-02
+Inside Navigation Def
+Clicked on:: PIM
+Inside Screenshot Def
+14-10-2018_15-31-04
+screenshot_14-10-2018_15-31-04
+Inside Navigation Def
+Clicked on:: Leave
+Inside Screenshot Def
+14-10-2018_15-31-08
+screenshot_14-10-2018_15-31-08
+Inside Navigation Def
+Clicked on:: Time
+Inside Screenshot Def
+14-10-2018_15-31-10
+screenshot_14-10-2018_15-31-10
+Inside Navigation Def
+Clicked on:: Performance
+Inside Screenshot Def
+14-10-2018_15-31-11
+screenshot_14-10-2018_15-31-11
+Inside Navigation Def
+Clicked on:: Dashboard
+Inside Screenshot Def
+14-10-2018_15-31-13
+screenshot_14-10-2018_15-31-13
+Inside Navigation Def
+Clicked on:: Directory
+Inside Screenshot Def
+14-10-2018_15-31-19
+screenshot_14-10-2018_15-31-19

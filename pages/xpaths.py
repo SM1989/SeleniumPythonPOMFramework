@@ -1,0 +1,6 @@
+XPATH_LOGINPAGE_USERNAME = "//div[@id='divUsername']/input"
+XPATH_LOGINPAGE_PASSWORD = "//div[@id='divPassword']/input"
+XPATH_LOGINPAGE_LOGIN = "//div[@id='divLoginButton']/input"
+XPATH_HOMEPAGE_WELCOME = "//div/a[@id='welcome']"
+XPATH_HOMEPAGE_LOGOUT = "//li/a[text()='Logout']"
+XPATH_HOMEPAGE_NAVIGATION = "//li/a[@class='firstLevelMenu']/*[text()='"

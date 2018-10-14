@@ -5,6 +5,7 @@ x = moment.now().strftime("%d-%m-%Y_%H-%M-%S")
 print(x)
 y = "screenshot_" + x
 print(y)
+print("Made some changes to Push in GIT")
 
 
 def screenshot(self):

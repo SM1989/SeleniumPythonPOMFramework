@@ -1,5 +1,6 @@
 import moment
 import allure
+import json
 
 URL = "https://opensource-demo.orangehrmlive.com/"
 USERNAME = "Admin"
@@ -19,3 +20,8 @@ def screenshot(self):
 
     #Below line works fine with allure-pytest
     allure.attach(self.driver.get_screenshot_as_png(),name=y,attachment_type=allure.attachment_type.PNG)
+
+def open_json_file(filepath):
+    with open(filepath) as jsonFile:
+        jsonData = json.load(jsonFile)
+        return jsonData

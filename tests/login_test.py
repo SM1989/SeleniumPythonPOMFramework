@@ -1,6 +1,7 @@
 from selenium import webdriver
 from pages.login_page import LoginPage
 from pages.home_page import HomePage
+from pages.admin_page import Admin
 from utils.constants import *
 import pytest
 import allure
@@ -25,6 +26,11 @@ class TestLogin():
         home.test_navigation("Performance")
         home.test_navigation("Dashboard")
         home.test_navigation("Directory")
+
+    def test_search_a_user(self):
+        driver = self.driver
+        page = Admin(driver)
+        page.search_user()
 
     def test_logout(self):
         # home = HomePage(driver)
